@@ -1,7 +1,7 @@
 ## Taller Ciberseguridad
 > Vulnerabilidades Web - SQLi
 
-Os dejamos aqui material del taller de ciberseguridad. Si hechais de menos algun material y os gustaría que lo añadieramos decirnoslo por redes.
+Os dejamos aqui material del taller de ciberseguridad. Si hecháis de menos algun material y os gustaría que lo añadiéramos, avisadnos por redes.
 
 ##
 - **Presentacion Mitigation.** 
