@@ -6,8 +6,9 @@
 
 +Blq2
 -4- CONTINUAR APRENDIZAJE EN OWASP
--5- EXISTEN CURSOS ABIERTOS GRATIS INTERESANTES  -- https://web.stanford.edu/class/cs253/
-							 	 -- https://opensecuritytraining.info/Welcome.html
+-5- EXISTEN CURSOS ABIERTOS GRATIS INTERESANTES:
+-- https://web.stanford.edu/class/cs253/
+-- https://opensecuritytraining.info/Welcome.html
 
 - Lenguajes a Reforzar
 ----
