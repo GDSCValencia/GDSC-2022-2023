@@ -8,7 +8,7 @@ En este repositorio encontrarás material de las charlas, eventos y talleres que
 ## CONTENIDO
 
 - **TECNOTAPAS 2022 VALENCIA**
-  * Charla divulgación en ambiente de bar en que se discute de temas que rodean a la ciencia. Este año hablamos de ***'La Etica en la Inteligencias Artificiales'***.
+  * Charla divulgación en ambiente de bar en que se discute de temas que rodean a la ciencia. Este año hablamos de ***'La Ética en las Inteligencias Artificiales'***.
   
 - **TALLER CIBERSEGURIDAD**
   * Taller de iniciación a la ciberseguridad a través de la técnica Hacking de ***SQL Injection*** .
