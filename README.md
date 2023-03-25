@@ -16,4 +16,4 @@ En este repositorio encontrarás material de las charlas, eventos y talleres que
 ##
 :link: [**Twitter**](https://twitter.com/DSC_Valencia?s=20)
 :blue_heart: [**Instagram**](https://instagram.com/gdsc_valencia?igshid=ZDdkNTZiNTM=)
-:green_circle: [**LinkedIn**](https://www.linkedin.com/feed/update/urn:li:activity:6999701753763893248?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6999701753763893248%29)
+:green_circle: [**LinkedIn**](https://www.linkedin.com/company/gdsc-valencia/)
