@@ -1,0 +1,28 @@
+--->> RECOMENDACIONES PARA SEGUIR APRENDIENDO POST TALLER 
++Blq1
+-1- ACABAR LECCIONES WEB GOAT
+-2- COMPLEMENTAR APRENDIZAJE CON WEBWOLF
+-3- PRACTICAR APRENDIZAJE CON MAQUINAS VULNERABLES ## EJ.PAG VULNHUB
+
++Blq2
+-4- CONTINUAR APRENDIZAJE EN OWASP
+-5- EXISTEN CURSOS ABIERTOS GRATIS INTERESANTES  -- https://web.stanford.edu/class/cs253/
+							 	 -- https://opensecuritytraining.info/Welcome.html
+
+- Lenguajes a Reforzar
+----
+HTML 
+SQL general 
+javascript 
+PHP
+
++Blq3
+-6- Descarga y analisis de scripts. Instalar un servidor web (Ej. XAMPP/LAMPP) y probar las vulnerabilidades aprendidas.
+-7- Paginas ayuda:
+
++ https://google-gruyere.appspot.com/
++ https://www.hackthebox.com/
++ https://www.root-me.org/
++ https://www.hackthissite.org/pages/index/index.php
++ https://tryhackme.com/
+

